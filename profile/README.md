@@ -1,6 +1,6 @@
 # LocalWare
 
-> **Software in the Open World.**
+**Software in the Open World.**
 
 Welcome to **LocalWare**, an open software company focused on building powerful, modern, and community-driven technology.
 
@@ -37,4 +37,4 @@ GitHub: https://github.com/LocalWareDev
 
 © 2026 LocalWare. All rights reserved.
 
-LocalHost™ and LocalWare™ are trademarks of LocalWare.
+LocalHost™ and LocalWare™ are trademarks of LocalWare Corporation.
