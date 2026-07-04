@@ -33,6 +33,8 @@ Website: Coming Soon
 
 GitHub: https://github.com/LocalWareDev
 
+Download LocalHost at:https://github.com/LocalWare-Corporation/LocalHost-Workstation-Pro-trial-/releases/tag/26V1
+
 ---
 
 © 2026 LocalWare. All rights reserved.
