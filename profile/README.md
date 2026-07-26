@@ -1,5 +1,7 @@
 # LocalWare
 
+DISCLAIMER:This company is a starter company, its not officially registered yet
+
 **Software in the Open World.**
 
 Welcome to **LocalWare**, an open software company focused on building powerful, modern, and community-driven technology.
